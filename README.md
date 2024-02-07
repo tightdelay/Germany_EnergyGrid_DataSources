@@ -12,7 +12,12 @@ Links (11.01.2024):
 
 
 ```bash
-├── README.md
+├── GeoJson                                         -- geojson data from SMARD (retrieved 11.01.2024)
+    ├── 50Hertz.geo.json                            -- https://www.smard.de/app/map_data/50Hertz.geo.json
+    ├── Amprion.geo.json                            -- https://www.smard.de/app/map_data/Amprion.geo.json  
+    ├── TenneT.geo.json                             -- https://www.smard.de/app/map_data/TenneT.geo.json 
+    ├── TransnetBW.geo.json                         -- https://www.smard.de/app/map_data/TransnetBW.geo.json
+     
 ├── requirements.txt                                -- required libraries
 ├── data                                            -- stores csv file 
 ├── plots                                           -- stores image files
