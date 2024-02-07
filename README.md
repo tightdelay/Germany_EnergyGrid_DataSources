@@ -9,3 +9,17 @@ Links (11.01.2024):
 |DE_AMPRION   |     https://www.smard.de/app/map_data/Amprion.geo.json   |
 |DE_TENNET    |     https://www.smard.de/app/map_data/TenneT.geo.json    |
 |DE_TRANSNET  |     https://www.smard.de/app/map_data/TransnetBW.geo.json| 
+
+
+```bash
+├── README.md
+├── requirements.txt                                -- required libraries
+├── data                                            -- stores csv file 
+├── plots                                           -- stores image files
+└── src
+    ├── prepare_source_data.ipynb                   -- preprocesses data
+    ├── data_preparation.ipynb                      -- preparing datasets
+    ├── model_tuning.ipynb                          -- tuning functions
+    └── run_experiment.ipynb                        -- run experiments 
+    └── plots                                       -- plotting functions                 
+```
