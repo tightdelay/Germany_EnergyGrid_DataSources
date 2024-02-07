@@ -29,3 +29,7 @@ Links (11.01.2024):
     └── run_experiment.ipynb                        -- run experiments 
     └── plots                                       -- plotting functions                 
 ```
+
+Sources:
+- https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html
+- 
