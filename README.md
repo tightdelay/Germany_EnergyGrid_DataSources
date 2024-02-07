@@ -1,8 +1,3 @@
-# Germany_TSO_geojson
-German TSO geojson dataTransmission System Operator 
-
-
-
 
 ```bash
 ├── GeoJson                                     -- geojson data from SMARD (retrieved 11.01.2024)
