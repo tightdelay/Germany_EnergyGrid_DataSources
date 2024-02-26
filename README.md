@@ -7,15 +7,7 @@
     ├── TransnetBW.geo.json                         -- https://www.smard.de/app/map_data/TransnetBW.geo.json
 
 ├── powerplants.csv (powerplants>10MW)          -- https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Energie/Unternehmen_Institutionen/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/Kraftwerksliste_CSV.csv?__blob=publicationFile&v=2 (retrieved 05.02.2024)
-├── requirements.txt                                -- required libraries
-├── data                                            -- stores csv file 
-├── plots                                           -- stores image files
-└── src
-    ├── prepare_source_data.ipynb                   -- preprocesses data
-    ├── data_preparation.ipynb                      -- preparing datasets
-    ├── model_tuning.ipynb                          -- tuning functions
-    └── run_experiment.ipynb                        -- run experiments 
-    └── plots                                       -- plotting functions                 
+         
 ```
 
 Sources:
